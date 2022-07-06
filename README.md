@@ -42,3 +42,5 @@ Unity上使用現有的Live2D模型，外部連接python人臉辨識，完成可
 Unity串接GOOGLE雲端試算表，同步所有玩家名稱及分數的排行榜。
 
 使用Xcode編譯Unity，並完成上架AppStore的完整流程，包含申請開發者帳號、簽證驗證等。
+
+熟悉Python套件，例：爬蟲、模擬鍵盤、神經網路等。
