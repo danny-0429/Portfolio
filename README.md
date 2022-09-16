@@ -25,7 +25,7 @@ Unity上使用現有的Live2D模型，外部連接python人臉辨識，完成可
   
   有單機紀錄名稱、破關進度、選取角色和BUFF種類。
 
-橫向卷軸、射擊遊戲(2人)
+橫向卷軸、射擊遊戲(2人)(https://github.com/danny-0429/Portfolio/blob/main/ShootingGame.mp4)
 ----
   第一關橫向卷軸射擊遊戲，包含3種怪物、可互動場景物件、陷阱，以左鍵位置發射光炮和全屏技能。
   
